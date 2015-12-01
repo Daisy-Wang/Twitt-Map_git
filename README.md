@@ -13,7 +13,7 @@ Creators: *Su Shen(ss4716)*, *Wenxin Wang(ww2373)*.
 
 + websocket: java WebSocket API
 + Tweets Source: Twitter Streaming API
-+ Sentiment Analysis: Alchemy mashape
++ Sentiment Analysis: Alchemy mashape API
 + Cloud Technologies: AWS. Deployed on Elastic Beanstalk, Elastic Load Balancing, Auto Scaling, DynamoDB, Amazon SQS, Amazon SNS.
 + Front-End: Javascript
 + Back-End: Java
